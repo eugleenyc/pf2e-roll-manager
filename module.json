@@ -1,10 +1,9 @@
 {
   "id": "pf2e-roll-manager",
-  "title": "Pathfinder 2E Roll Manager",
+  "title": "Pathfinder 2E Roll Manager (forked)",
   "description": "This module makes setting up DC checks easier for groups of players and busy GMs.",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 11,
     "verified": 12,
