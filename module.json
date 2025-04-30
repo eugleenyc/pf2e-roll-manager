@@ -38,6 +38,7 @@
   ],
   "url": "https://github.com/eugleenyc/pf2e-roll-manager",
   "manifest": "https://raw.githubusercontent.com/eugleenyc/pf2e-roll-manager/refs/heads/main/module.json",
+  "download": "https://github.com/eugleenyc/pf2e-roll-manager/archive/refs/tags/v0.0.1.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
